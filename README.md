@@ -31,4 +31,6 @@ Insights and Recommendations:
 
 By leveraging these insights, airlines can make informed decisions to enhance customer satisfaction, optimize revenue streams, and stay competitive in the dynamic aviation industry.
 
+![Screenshot 2024-03-22 222747](https://github.com/Max030711/Flight_Analytics/assets/141894473/037a3184-c1a6-49a4-ab9d-60e19e6e83b5)
+
 hashtag#Powerbi hashtag#dataanalytics hashtag#datavisualization hashtag#flightanalytics hashtag#reports hashtag#dashboard
